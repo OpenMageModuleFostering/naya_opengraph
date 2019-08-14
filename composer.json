@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Naya_OpenGraph",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Add Open Graph tags in your product pages and generate previews when your content is shared on Facebook.",
+    "authors": [
+    {
+        "name": "Damir Perkosan",
+        "email": "dperkosan@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
