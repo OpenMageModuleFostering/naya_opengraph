@@ -25,7 +25,7 @@
                             <show_in_default>1</show_in_default>
                             <show_in_website>1</show_in_website>
                             <show_in_store>1</show_in_store>
-                            <comment><![CDATA[<a href="http://developers.facebook.com/setup/" target="_bank">Register here</a>]]></comment>
+                            <comment><![CDATA[<a href="http://developers.facebook.com/setup/" target="_blank">Register here</a>]]></comment>
                         </site_id>
                         <admin_id translate="label">
                             <label>Admin ID</label>
@@ -34,7 +34,6 @@
                             <show_in_default>1</show_in_default>
                             <show_in_website>1</show_in_website>
                             <show_in_store>1</show_in_store>
-                            <comment><![CDATA[<a href="http://findmyfacebookid.com/" target="_bank">Find admin ID</a>]]></comment>
                         </admin_id>
                     </fields>
                 </general>
