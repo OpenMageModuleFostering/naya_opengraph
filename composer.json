@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Naya_OpenGraph",
+    "name": "openmage-module-fostering\/naya_opengraph",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Add Open Graph tags in your product pages and generate previews when your content is shared on Facebook.",
     "authors": [
